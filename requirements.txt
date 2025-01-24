@@ -1,0 +1,9 @@
+pydicom
+numpy
+opencv-python
+dataclasses
+nibabel
+scipy
+scikit-learn
+scikit-image
+
